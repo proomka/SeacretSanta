@@ -16,5 +16,7 @@
     "url": "https://github.com/proomka/SeacretSanta/issues"
   },
   "homepage": "https://github.com/proomka/SeacretSanta#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
